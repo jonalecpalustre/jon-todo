@@ -1,0 +1,23 @@
+{
+  "name": "jon-todo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node Express.js"
+  },
+  "description": "",
+  "main": "Express.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonalecpalustre/jon-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonalecpalustre/jon-todo/issues"
+  },
+  "homepage": "https://github.com/jonalecpalustre/jon-todo#readme"
+}
